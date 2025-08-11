@@ -159,4 +159,4 @@ Python: The core programming language.
 
 Django: The web framework used for the backend logic and user authentication.
 
-HTML/CSS: For the front-end interface.
+HTML: For the front-end interface.
